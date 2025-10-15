@@ -1,0 +1,21 @@
+[
+  {
+    "add": [
+      {
+        "cmd": "photoleap",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "add": [
+      {
+        "cmd": "transferirgp",
+        "desc": "nova funcionalidade em lista"
+      }
+    ]
+  },
+  {
+    "add": []
+  }
+]
