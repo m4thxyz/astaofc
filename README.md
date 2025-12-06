@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=5000&color=FFFF00&center=falso&vCenter=falso&lines=🜛+𝐀𝐒𝐓𝐀+𝐕𝟓+🜛;۞+𝐅𝐑𝐄𝐄+𝐕𝐄𝐑𝐒𝐈𝐎𝐍+۞;@𝚖𝟺𝚝𝚑𝚡𝚢𝚣_">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=5000&color=32CD32&center=falso&vCenter=falso&lines=🜛+𝐀𝐒𝐓𝐀+𝐕𝟓+🜛;۞+𝐅𝐑𝐄𝐄+𝐕𝐄𝐑𝐒𝐈𝐎𝐍+۞;@𝚖𝟺𝚝𝚑𝚡𝚢𝚣_">      
 
 <h1 align="center">
 <p>
-<img src= "https://blackstorage.store/midia/1760491398745.jpg" alt="ASTA MD" width="720">
+<img src= "https://blackstorage.store/midia/1765000124741.jpg" alt="ASTA MD" width="720">
 </p>
 
 <p align="center">
