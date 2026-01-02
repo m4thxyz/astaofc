@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=5000&color=32CD32&center=falso&vCenter=falso&lines=🜛+𝐀𝐒𝐓𝐀+𝐕𝟓+🜛;۞+𝐅𝐑𝐄𝐄+𝐕𝐄𝐑𝐒𝐈𝐎𝐍+۞;@𝚖𝟺𝚝𝚑𝚡𝚢𝚣_">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=5000&color=FFFF00&center=falso&vCenter=falso&lines=🜛+𝐀𝐒𝐓𝐀+𝐕𝟓+🜛;۞+𝐅𝐑𝐄𝐄+𝐕𝐄𝐑𝐒𝐈𝐎𝐍+۞;@𝚖𝟺𝚝𝚑𝚡𝚢𝚣_">      
 
 <h1 align="center">
 <p>
-<img src= "https://blackstorage.store/midia/1765000124741.jpg" alt="ASTA MD" width="720">
+<img src= "https://storageblack.cloud/midia/1767382269112.jpg" alt="ASTA MD" width="720">
 </p>
 
 <p align="center">
@@ -48,4 +48,4 @@ sh astaup.sh
 sh qrcode.sh
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=5000&color=FF0000&center=falso&vCenter=falso&lines=֎+𝐁𝐋𝐀𝐂𝐊+𝐒𝐘𝐒𝐓𝐄𝐌+֎"> 
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=5000&color=FFFF00&center=falso&vCenter=falso&lines=֎+𝐁𝐋𝐀𝐂𝐊+𝐒𝐘𝐒𝐓𝐄𝐌+֎"> 
