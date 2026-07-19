@@ -41,7 +41,17 @@ function decodeMessageNode(stanza, meId, meLid) {
     const recipient = stanza.attrs.recipient;
     const isMe = (jid) => (0, WABinary_1.areJidsSameUser)(jid, meId);
     const isMeLid = (jid) => (0, WABinary_1.areJidsSameUser)(jid, meLid);
+    const normalizePrivateChatJid = (jid) => {
+        if (!(0, WABinary_1.isLidUser)(jid)) {
+            return jid;
+        }
+        if (senderPn && (0, WABinary_1.isJidUser)(senderPn)) {
+            return senderPn;
+        }
+        return jid;
+    };
     if ((0, WABinary_1.isJidUser)(from) || (0, WABinary_1.isLidUser)(from)) {
+        const normalizedFrom = normalizePrivateChatJid(from);
         if (recipient && !(0, WABinary_1.isJidMetaAi)(recipient)) {
             if (!isMe(from) && !isMeLid(from)) {
                 throw new boom_1.Boom('receipient present, but msg not from me', { data: stanza });
@@ -49,10 +59,10 @@ function decodeMessageNode(stanza, meId, meLid) {
             chatId = recipient;
         }
         else {
-            chatId = from;
+            chatId = normalizedFrom;
         }
         msgType = 'chat';
-        author = from;
+        author = normalizedFrom;
     }
     else if ((0, WABinary_1.isJidGroup)(from)) {
         if (!participant) {
